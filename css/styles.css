@@ -32,12 +32,12 @@ hr{
   padding-top: 100px;
   background-color: #E4F9F5
 }
-/*.middle{
-
+.middle{
+  font-size: 100%;
 }
 .bottom{
-
-}*/
+  font-size: 100%;
+}
 .pro-image{
   padding-top: 20px;
   border-radius: 100%;
